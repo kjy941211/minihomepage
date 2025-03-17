@@ -21,7 +21,7 @@
 
 > > "분산형 버전 관리 시스템 Git은 모든 파일의 변경 이력을 기록하여 협업을 쉽게 해줍니다." - Git 사용자
 
-## Git 기본 명령어[https://github.com/kjy941211/minihomepage/blob/main/git_basic_practice.md#git-%EA%B8%B0%EB%B3%B8-%EB%AA%85%EB%A0%B9%EC%96%B4]
+## [Git 기본 명령어](https://github.com/kjy941211/minihomepage/blob/main/git_basic_practice.md#git-%EA%B8%B0%EB%B3%B8-%EB%AA%85%EB%A0%B9%EC%96%B4)
 
 ### 1. Git 저장소 초기화
 
