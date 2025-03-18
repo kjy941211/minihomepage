@@ -25,6 +25,10 @@
 
 - 떡볶이
 
+## 사이드바 개발
+
+- sidebar.md 추가
+
 ## 푸터
 
-- footer.m 추가
+- footer.md 추가
